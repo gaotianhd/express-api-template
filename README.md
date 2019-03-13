@@ -1,7 +1,7 @@
 # express-api-template
 
 #### 介绍
-express-api 模板项目
+express-api-gt 模板项目
 
 #### 软件架构
 软件架构说明  
